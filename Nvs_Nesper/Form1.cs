@@ -23,6 +23,8 @@ namespace Nvs_Nesper
         private EPAdministrator _administrator;
         private EPRuntime _runtime;
 
+        //hello every body
+
         private void Form1_Load(object sender, EventArgs e)
         {
             InitializeEsper();
